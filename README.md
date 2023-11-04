@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Developer 👨‍💻<br>🎮 Game Developer<br>💻 C/Cpp,C#,Java,Py Developer<br>🚀 Web Development<br>🔧 Technology Enthusiast
+👨‍💻 Developer 👨‍💻<br>🎮 Game Developer<br>💻 C/Cpp,C#,Java,Py Developer<br>🚀 Web Development<br>🔧 Technology Enthusiast<br>
 https://semihkagan.github.io/profile/
 
 ## 🌐 Socials:
